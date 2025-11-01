@@ -1,10 +1,32 @@
-# index.html
+format tugas form mata kuliah  koding
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Formulir Pendaftaran Komunitas Teknologi</title>
+    di repositori ini saya membuat sebuah web untuk pendaftaran menjadi komunitas teknologi disini saya 
+    
+    Tugas Praktikum HTML Dasar
+
+Repositori ini berisi hasil praktikum saya dalam membuat halaman web sederhana menggunakan bahasa HTML. Semua kode ditulis menggunakan Visual Studio Code.
+
+Deskripsi
+
+Project ini merupakan bagian dari tugas mata kuliah *Pemrograman Web Dasar*, yang bertujuan untuk memahami struktur dasar HTML seperti:
+- Penggunaan tag HTML (seperti `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`)
+- Membuat heading, paragraf, dan daftar
+- Menambahkan gambar dan link
+- Menyusun struktur halaman secara semantik
+
+Cara Menjalankan
+
+1. Download atau clone repository ini.
+2. Buka folder project di Visual Studio Code.
+3. Jalankan file `index.html` di browser dengan klik kanan → *Open with Live Server* atau langsung buka melalui file explorer.
+
+jika sudah dapat dijalankan, maka anda akan melihat tampilan formulir seperti dibawah ini dan silahkan diisi dengan yang sebenarnya.
+
+
 </head>
 <body>
    <h1 align="center">Formulir Pendaftaran Komunitas Teknologi</h1>
